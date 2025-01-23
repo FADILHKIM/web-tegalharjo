@@ -109,14 +109,16 @@ footer {
 
 @media (max-width: 600px) {
     header {
-        font-size: 1.2em;
+        font-size: 0.7em; /* Reduced font size */
+        padding: 10px; /* Reduced padding */
     }
 
     nav li a {
-        font-size: 1em;
+        font-size: 0.9em; /* Reduced font size for nav items */
+        padding: 10px; /* Adjust padding */
     }
 
     .submenu li {
-        font-size: 0.9em;
+        font-size: 0.85em; /* Reduced font size for submenu items */
     }
 }
